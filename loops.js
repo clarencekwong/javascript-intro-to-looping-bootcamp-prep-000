@@ -1,3 +1,5 @@
 function whileLoop(d) {
-   console.log(d)
+   while (d > 0) {
+     console.log(--d)
+   }
 }
