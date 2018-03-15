@@ -17,3 +17,7 @@ function whileLoop(d) {
      }
    }
 }
+
+function doWhileLoop (d) {
+  
+}
