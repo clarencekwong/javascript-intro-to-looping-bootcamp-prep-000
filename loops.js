@@ -1,3 +1,3 @@
-function whileLoop {
-  
+function whileLoop(d) {
+   console.log(d)
 }
